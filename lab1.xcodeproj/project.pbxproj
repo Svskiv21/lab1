@@ -14,6 +14,8 @@
 		1B0492822ACC5D8000DEEF57 /* lab1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0492812ACC5D8000DEEF57 /* lab1Tests.swift */; };
 		1B04928C2ACC5D8000DEEF57 /* lab1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B04928B2ACC5D8000DEEF57 /* lab1UITests.swift */; };
 		1B04928E2ACC5D8000DEEF57 /* lab1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B04928D2ACC5D8000DEEF57 /* lab1UITestsLaunchTests.swift */; };
+		1B04929F2ACC645600DEEF57 /* MyTField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B04929E2ACC645600DEEF57 /* MyTField.swift */; };
+		1B0492A12ACC661500DEEF57 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0492A02ACC661500DEEF57 /* Functions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		1B0492872ACC5D8000DEEF57 /* lab1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lab1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B04928B2ACC5D8000DEEF57 /* lab1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab1UITests.swift; sourceTree = "<group>"; };
 		1B04928D2ACC5D8000DEEF57 /* lab1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1B04929E2ACC645600DEEF57 /* MyTField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTField.swift; sourceTree = "<group>"; };
+		1B0492A02ACC661500DEEF57 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,7 @@
 				1B04926F2ACC5D7E00DEEF57 /* lab1 */,
 				1B0492802ACC5D8000DEEF57 /* lab1Tests */,
 				1B04928A2ACC5D8000DEEF57 /* lab1UITests */,
+				1B0492A02ACC661500DEEF57 /* Functions.swift */,
 				1B04926E2ACC5D7E00DEEF57 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -98,6 +103,7 @@
 				1B0492722ACC5D7E00DEEF57 /* ContentView.swift */,
 				1B0492742ACC5D8000DEEF57 /* Assets.xcassets */,
 				1B0492762ACC5D8000DEEF57 /* Preview Content */,
+				1B04929E2ACC645600DEEF57 /* MyTField.swift */,
 			);
 			path = lab1;
 			sourceTree = "<group>";
@@ -259,6 +265,8 @@
 			files = (
 				1B0492732ACC5D7E00DEEF57 /* ContentView.swift in Sources */,
 				1B0492712ACC5D7E00DEEF57 /* lab1App.swift in Sources */,
+				1B04929F2ACC645600DEEF57 /* MyTField.swift in Sources */,
+				1B0492A12ACC661500DEEF57 /* Functions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
